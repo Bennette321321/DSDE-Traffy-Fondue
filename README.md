@@ -1,7 +1,7 @@
 # DSDE-Traffy-Fondue
 
 Kaggle Link: https://www.kaggle.com/competitions/2110446-dsde-2025-2
-Score: ...
+Score: 0.37750
 
 ### 1. ติดตั้ง Dependencies
 
@@ -23,6 +23,8 @@ pip install transformers datasets sentencepiece lightning scikit-learn evaluate 
 - Train model 2 รอบด้วย random_state = 42 และ 67
 - Ensemble prob จาก 2 model แล้วหา best threshold
 - สร้างไฟล์ `submission.csv` สำหรับ submit Kaggle
+
+Time Estimation: ~12 hours
 
 ### 4. Submit
 
