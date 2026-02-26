@@ -1,7 +1,8 @@
 # DSDE-Traffy-Fondue
 
 Kaggle Link: https://www.kaggle.com/competitions/2110446-dsde-2025-2
-Score: 0.37750
+
+Score: 0.36963
 
 ### 1. ติดตั้ง Dependencies
 
