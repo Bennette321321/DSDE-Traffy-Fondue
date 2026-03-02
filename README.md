@@ -2,7 +2,8 @@
 
 Kaggle Link: https://www.kaggle.com/competitions/2110446-dsde-2025-2
 
-Score: 0.37750
+Public Score: 0.37750
+Private Score: 0.37603
 
 ### 1. ติดตั้ง Dependencies
 
