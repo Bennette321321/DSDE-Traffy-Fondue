@@ -25,8 +25,6 @@ pip install transformers datasets sentencepiece lightning scikit-learn evaluate 
 - Ensemble prob จาก 2 model แล้วหา best threshold
 - สร้างไฟล์ `submission.csv` สำหรับ submit Kaggle
 
-Time Estimation: ~12 hours
-
 ### 4. Submit
 
 นำไฟล์ `submission.csv` ที่ได้ไป submit ที่ Kaggle
